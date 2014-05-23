@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+
+body{
+	background-color: orange;
+}
+
+#cabecalho{
+	background-color: #333;
+	height: 100px;
+	line-height: 100px;
+	width: 100%;
+	text-align: center;
+	color: white;
+
+}
+
+#formulario{
+	padding: 20px 20px 20px 20px;
+	width: 400px;
+	margin: 0 auto;
+	border: 2px solid #333;
+}
+
+.entrada{
+	width: 250px;
+}
+
+#campo{
+	padding-top: 20px;
+	text-align: center;
+}
